@@ -15,7 +15,6 @@
     <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/carousel.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -56,14 +55,14 @@
 
     <section class="container">
       <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Juliana Elisa</h2>
+        <div class="col-md-7" style="padding-top: 45px">
+          <h1>Juliana Elisa</h1>
           <p class="lead"><p>Born and raised in South America; graduated in Psychology by the Catholic University of Santos in 2002 and in Neuropsychology by University of Sao Paulo in 2005.  Living in US since 2006, relocated to Miami in 2013.  Studied Photography at New York Film Academy - South Beach Campus - in 2014.
-          </p></br></br><p>Im grateful for all the opportunities - including the ones I've never had - because it taught me how to create; and still learning.  Thanks to Rolando Moreno, web developer who put all my work together; allso thankful for all the support of friends and family - including the ones who secretly inspired me.</p>
+          </p></br></br><p>Im grateful for all the opportunities - including the ones I've never had - because it taught me how to create; and still learning.  Thanks to Rolando Moreno, web developer who put all my work together; also thankful for all the support of friends and family - including the ones who secretly inspired me.</p>
           <h2 class="text-muted">Attest the moment.</h2>
         </div>
         <div class="col-md-5" style="padding-top: 60px; padding-bottom: 25px">
-          <img class="featurette-image img-responsive" src="images/jElisa.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="images/juelisa.jpg" alt="Generic placeholder image">
         </div>
       </div>
 
