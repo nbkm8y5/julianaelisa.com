@@ -57,9 +57,10 @@
     <section class="container">
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Juliana Elisa</br><span class="text-muted">Attest the moment.</span></h2>
-          <p class="lead"><p>South American, born and raised. Graduated in psychology in 2002 - Catholic University of Santos and Neuropsychology in 2005 - University of Sao Paulo and Photography at NYFA, South Beach Campus, in 2014. Relocated to Miami, Florida, in August, 2013.
-          </p></br></br><p>I’d like to say thank you to my family for all their support.  I would also like to thank Cortney Cates, teacher at New York Film Academy, for helping me with random questions along the way and the photographer Daniela Cordova for the beautiful portrait taken at the end of our program at NYFA.  Finally, I thank Rolando Moreno, software developer and web designer, for the biggest help on putting this all together!</p>
+          <h2 class="featurette-heading">Juliana Elisa</h2>
+          <p class="lead"><p>Born and raised in South America; graduated in Psychology by the Catholic University of Santos in 2002 and in Neuropsychology by University of Sao Paulo in 2005.  Living in US since 2006, relocated to Miami in 2013.  Studied Photography at New York Film Academy - South Beach Campus - in 2014.
+          </p></br></br><p>Im grateful for all the opportunities - including the ones I've never had - because it taught me how to create; and still learning.  Thanks to Rolando Moreno, web developer who put all my work together; allso thankful for all the support of friends and family - including the ones who secretly inspired me.</p>
+          <h2 class="text-muted">Attest the moment.</h2>
         </div>
         <div class="col-md-5" style="padding-top: 60px; padding-bottom: 25px">
           <img class="featurette-image img-responsive" src="images/jElisa.jpg" alt="Generic placeholder image">
