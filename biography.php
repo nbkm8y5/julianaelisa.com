@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -58,7 +58,7 @@
         <div class="col-md-7" style="padding-top: 45px">
           <h1>Juliana Elisa</h1>
           <p class="lead"><p>Born and raised in South America; graduated in Psychology by the Catholic University of Santos in 2002 and in Neuropsychology by University of Sao Paulo in 2005.  Living in US since 2006, relocated to Miami in 2013.  Studied Photography at New York Film Academy - South Beach Campus - in 2014.
-          </p></br></br><p>Im grateful for all the opportunities - including the ones I've never had - because it taught me how to create; and still learning.  Thanks to Rolando Moreno, web developer who put all my work together; also thankful for all the support of friends and family - including the ones who secretly inspired me.</p>
+          </p></br></br><p>I am grateful for all opportunities to collaborate, that are presented to me.  I use them to to forge creativity through the lens of my camera.</p>
           <h2 class="text-muted">Attest the moment.</h2>
         </div>
         <div class="col-md-5" style="padding-top: 60px; padding-bottom: 25px">
