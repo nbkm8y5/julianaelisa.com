@@ -2,6 +2,8 @@
 Using Agile Methodology
 
 ## 1. User Stories - representing new functionality
+
+	ADD A FEW MORE PICTURES TO SITE AND CONSIDER CHANGING HOW IT LOOKS IN THE GALLERY
 	CHANGE LOOK A BIT AND ADD MORE SEARCH FUNCTIONALITY
 	Modify sql with new table made by Natacha.  Add Stored Procedure.
 	Make appropriate changes in emailconfirmation.php with two new files email.php, with its Email class and commentform.php with its CommentForm class.
