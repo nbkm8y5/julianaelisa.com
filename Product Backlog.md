@@ -6,6 +6,7 @@ Using Agile Methodology
 	ADD A FEW MORE PICTURES TO SITE AND CONSIDER CHANGING HOW IT LOOKS IN THE GALLERY
 	CHANGE LOOK A BIT AND ADD MORE SEARCH FUNCTIONALITY
 	Modify sql with new table made by Natacha.  Add Stored Procedure.
+	ALSO KEEP TRACK OF WHERE CAME FROM AND WHERE GOING.
 	Make appropriate changes in emailconfirmation.php with two new files email.php, with its Email class and commentform.php with its CommentForm class.
 
 ## 2. Bugs – representing work to address a defect
