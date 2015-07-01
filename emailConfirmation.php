@@ -53,7 +53,7 @@ require_once "php/dbConnector.php";
                             'Reply-To: '. $email . "\r\n" .
                             'X-Mailer: PHP/' . phpversion();
 
-                mail($to, $subject, $message, $headers);
+                //mail($to, $subject, $message, $headers);
 ?>
 <!DOCTYPE html>
 <html lang="en">
